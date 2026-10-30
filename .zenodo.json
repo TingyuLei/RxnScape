@@ -1,0 +1,25 @@
+{
+  "title": "RxnScape: From Reactive Molecular Dynamics to Interpretable Reaction Pathways and Networks",
+  "upload_type": "software",
+  "description": "RxnScape converts reactive molecular dynamics trajectories into chemically interpretable, traceable reaction events, pathways, and networks. It reconstructs connectivity-defined molecular states and their atom-mapped transformations, and preserves links to participating atoms, trajectory frames, and bond changes.",
+  "creators": [
+    {
+      "name": "Sun, Dexin",
+      "affiliation": "Institute of Coal Chemistry, Chinese Academy of Sciences"
+    },
+    {
+      "name": "Lei, Tingyu",
+      "affiliation": "Institute of Coal Chemistry, Chinese Academy of Sciences"
+    }
+  ],
+  "license": "other",
+  "keywords": [
+    "reactive molecular dynamics",
+    "reaction pathways",
+    "reaction networks",
+    "atom mapping",
+    "molecular lineage"
+  ],
+  "notes": "Distributed under the RxnScape Research Source License v1.0: source-available for non-commercial research and scholarly verification. This is not an OSI open-source license. See the LICENSE file in this repository.",
+  "related_identifiers": []
+}
