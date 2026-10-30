@@ -1,0 +1,23 @@
+# Normalize line endings so Windows/Gitee/GitHub/Zenodo all see identical blobs.
+# Repository stores LF; no file is converted on commit or checkout.
+* text=auto eol=lf
+
+# Source and documentation
+*.py    text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.toml  text eol=lf
+*.cff   text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+.gitignore    text eol=lf
+.gitattributes text eol=lf
+LICENSE       text eol=lf
+
+# Binary assets: never diff, never merge, never convert
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.pdf   binary
+*.zip   binary
+*.pkl   binary
