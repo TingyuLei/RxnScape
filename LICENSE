@@ -1,0 +1,90 @@
+RxnScape Research Source License, Version 1.0
+
+Copyright (c) 2026 Institute of Coal Chemistry, Chinese Academy of Sciences.
+All rights reserved except as expressly provided below.
+
+Software developers:
+  Dexin Sun & Tingyu Lei
+
+1. Scope
+
+This License applies to RxnScape source code and accompanying software
+documentation distributed by the copyright holder or its authorized
+representative (the "Licensor").
+
+2. Permitted Research Use
+
+Subject to the terms of this License, the Licensor grants recipients a
+non-exclusive, worldwide, royalty-free, non-transferable permission to:
+
+(a) download, install, run, and study RxnScape for non-commercial academic
+    research, teaching, and verification of scientific results;
+
+(b) modify the source code and make copies as reasonably necessary for
+    internal, non-commercial research; and
+
+(c) publish scientific findings obtained using RxnScape, subject to any
+    separate rights in input data and other third-party materials.
+
+Recipients must retain the copyright, developer-credit, and license
+notices in copies and internal modifications of the Software. Scholarly
+publications using RxnScape should identify the software and version used
+and cite the associated publication when available.
+
+3. Restrictions
+
+Without prior written permission from the Licensor, recipients may not:
+
+(a) use RxnScape for commercial products or services, paid consulting,
+    commercial software integration, or other commercial purposes;
+
+(b) redistribute, sublicense, sell, publish, or independently host the
+    source code or modified versions for third parties; or
+
+(c) remove or misrepresent copyright notices, developer credits, or
+    authorship information.
+
+Permission to modify the Software for internal research does not include
+permission to distribute modified versions to third parties.
+
+4. Authorized Repositories and Hosting Services
+
+Official copies distributed with the Licensor's authorization through
+Gitee, GitHub, Zenodo, or another approved channel are permitted.
+
+Nothing in this License overrides rights required by a hosting platform's
+applicable terms. In particular, a public GitHub repository may be viewed
+and forked within GitHub as permitted by GitHub's Terms of Service. Those
+platform permissions do not, by themselves, grant unrestricted rights to
+redistribute the Software elsewhere.
+
+5. Ownership and Other Rights
+
+The Licensor and other relevant rights holders retain their respective
+intellectual property rights. This License does not transfer copyright
+ownership and does not grant any patent, trademark, or third-party
+software or dataset license. Third-party dependencies remain subject to
+their own licenses.
+
+6. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS
+OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. THE LICENSOR
+MAKES NO GUARANTEE OF ACCURACY, FITNESS FOR A PARTICULAR PURPOSE, OR
+SUITABILITY FOR SAFETY-CRITICAL USE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR IS NOT
+LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING
+FROM THE USE OF THE SOFTWARE.
+
+7. Termination and Additional Permissions
+
+The permissions granted under this License terminate upon material
+noncompliance, subject to applicable mandatory law. Separate commercial,
+redistribution, or other permissions may be obtained in writing from the
+Licensor or its authorized representative.
+
+This is a research source-available license, not an OSI-approved
+open-source license.
+
+END OF LICENSE

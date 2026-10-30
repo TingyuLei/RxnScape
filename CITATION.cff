@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite RxnScape and report the software version used."
+type: software
+title: "RxnScape: From Reactive Molecular Dynamics to Interpretable Reaction Pathways and Networks"
+authors:
+  - given-names: "Dexin"
+    family-names: "Sun"
+  - given-names: "Tingyu"
+    family-names: "Lei"
+version: "1.0.0"
+repository-code: "https://github.com/TingyuLei/RxnScape"
+url: "https://gitee.com/TingyuLei/RxnScape"
+keywords:
+  - reactive molecular dynamics
+  - reaction pathways
+  - reaction networks
+  - atom mapping
+  - molecular lineage

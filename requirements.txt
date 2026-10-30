@@ -1,0 +1,17 @@
+# RxnScape v1.0.0 — proposed installation requirements.
+# Python 3.11 recommended. These are not a reproducibility lockfile.
+numpy
+pandas
+scipy
+matplotlib
+cycler
+ase
+networkx
+PyYAML
+tqdm
+plotly
+numba
+rdkit
+pyvis
+
+# Optional, separately installed: AMS/PLAMS for AMS .rkf trajectories.

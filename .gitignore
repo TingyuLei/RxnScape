@@ -1,0 +1,33 @@
+# Python and development caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+
+# Local RxnScape configuration and results
+rxn.yaml
+00_Data/
+01_Plots/
+02_Structures/
+topology_cache.pkl
+rxn.log
+
+# Large or unpublished input trajectory files
+*.traj
+*.xyz
+*.rkf
+*.lammpstrj
+*.dump
+*.h5
+*.hdf5
+
+# Local archives / workstation artifacts
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
