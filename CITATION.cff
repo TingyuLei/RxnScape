@@ -8,6 +8,7 @@ authors:
   - given-names: "Tingyu"
     family-names: "Lei"
 version: "1.0.0"
+doi: "10.5281/zenodo.23827903"
 date-released: "2026-10-30"
 license: "LicenseRef-RxnScape-Research-Source-1.0"
 repository-code: "https://github.com/TingyuLei/RxnScape"
